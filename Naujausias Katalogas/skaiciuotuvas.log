@@ -1,0 +1,11 @@
+2023-04-24 16:54:17,147:DEBUG:logginimas:14:Zmogelis pasirinko *
+2023-04-24 16:57:18,980:CRITICAL:logginimas:14:Zmogus ivede netinkama skaiciu
+2023-04-24 16:59:21,451:CRITICAL:logginimas:17:Zmogus ievede klaidinga skaiciu arba simboli
+2023-04-24 16:59:38,916:DEBUG:logginimas:20:Zmogelis pasirinko *
+2023-04-24 17:01:36,812:DEBUG:logginimas:20:Zmogelis pasirinko g
+2023-04-24 17:07:24,659:CRITICAL:logginimas:18:Zmogus ievede klaidinga skaiciu arba simboli
+2023-04-24 17:07:37,540:DEBUG:logginimas:21:Zmogelis pasirinko d
+2023-04-24 17:07:54,947:DEBUG:logginimas:21:Zmogelis pasirinko d
+2023-04-24 17:08:05,868:CRITICAL:logginimas:18:Zmogus ievede klaidinga skaiciu arba simboli
+2023-04-24 17:08:19,429:CRITICAL:logginimas:18:Zmogus ievede klaidinga skaiciu arba simboli
+2023-04-24 17:08:37,548:CRITICAL:logginimas:17:Zmogus ievede klaidinga skaiciu arba simboli
